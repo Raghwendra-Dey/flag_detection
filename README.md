@@ -1,6 +1,6 @@
 # flag_detection
 Code for flag detection module for the IMAV-2019 Indoors.<br>
-Our team grabbed the **First Place** in the  IMAV-2019 Indoors among 14 teams from across 11 countries.<br>
+Our team(Aerial Robotics Lab, IIT Kharagpur) **grabbed the First Place** in the  [IMAV-2019](https://imav2019.org/) Indoors among 14 teams from across 11 countries.<br>
 
 ## Problem Statement Description
 ![arena](https://user-images.githubusercontent.com/45457947/89183710-41ebf100-d5b5-11ea-8234-9d633b20ec32.png)
